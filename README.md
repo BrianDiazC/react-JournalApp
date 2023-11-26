@@ -4,4 +4,4 @@
 - FireBase
 - MUI
 - Animate CSS
-- Styled Component
+- Styled Components
